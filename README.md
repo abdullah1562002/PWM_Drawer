@@ -10,7 +10,7 @@ Group: D54
 Overview:
 Welcome to the PWM_Drawer project repository, the culmination of Abdullah Abdelgalel's Final Graduation Project. This repository encompasses various components aimed at providing a comprehensive understanding of the project.
 
-Contents:
+##Contents:
 
 Simulation files:
 
